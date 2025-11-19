@@ -1,2 +1,2 @@
 # Etch-a-sketch
-A virtual "Etch-a-sketch" build in HTML and Javascript.
+A virtual "Etch-a-sketch" built in HTML and Javascript.
